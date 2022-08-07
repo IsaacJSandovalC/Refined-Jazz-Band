@@ -498,8 +498,8 @@ input[type="reset"]:focus,
 input[type="button"]:hover,
 input[type="button"]:active,
 input[type="button"]:focus {
-    color: #6882f6;
-    border-color: #6882f6
+    color: #6882f600;
+    border-color: #6882f600;
 }
 
 .blurb--framed {
